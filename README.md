@@ -1,7 +1,12 @@
 # go-ipip
+
 Golang for ipip.net
 
-#example
+## limitation
+
+only accept ipv4 string
+
+## example
 
 go get github.com/17mon/go-ipip/ipip
 
